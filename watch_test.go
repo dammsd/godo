@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"gopkg.in/stretchr/testify.v1/assert"
+	"gopkg.in/stretchr/testify/assert"
 )
 
 /*

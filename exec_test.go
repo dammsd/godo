@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"gopkg.in/stretchr/testify.v1/assert"
+	"gopkg.in/stretchr/testify/assert"
 
 	"github.com/mgutz/str"
 )
