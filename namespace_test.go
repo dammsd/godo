@@ -3,7 +3,7 @@ package godo
 import (
 	"testing"
 
-	"gopkg.in/stretchr/testify/assert"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestMultiProject(t *testing.T) {

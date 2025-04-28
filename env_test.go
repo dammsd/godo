@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"testing"
 
-	"gopkg.in/stretchr/testify/assert"
+	"github.com/stretchr/testify/assert"
 
 	"github.com/mgutz/str"
 )
