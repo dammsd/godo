@@ -1,3 +1,3 @@
-module github.com/yourusername/godo/v2
+module github.com/dammsd/godo/v2
 
 go 1.24.0
